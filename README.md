@@ -4,4 +4,4 @@ Analysis data from five randomized controlled trials for patients with schizophr
 
 Project instruction page: https://stats-202.github.io/project.html
 
-See project report (pdf file) for more details.
+See [project report](https://github.com/shengbo-ma/Schizophrenia-Treatment-Evaluation/blob/master/script.ipynb) for more details.
